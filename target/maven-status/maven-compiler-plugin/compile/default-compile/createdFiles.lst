@@ -1,0 +1,6 @@
+restapi\Main.class
+core\database.class
+application\UserDto.class
+application\HttpResponse.class
+application\UserManager.class
+core\User.class
