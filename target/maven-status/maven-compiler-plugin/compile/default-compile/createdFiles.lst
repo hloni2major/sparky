@@ -1,6 +1,0 @@
-restapi/Main.class
-application/HttpResponse.class
-application/UserDto.class
-application/UserManager.class
-core/database.class
-core/User.class
